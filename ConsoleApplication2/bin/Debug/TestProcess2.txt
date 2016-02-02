@@ -1,0 +1,40 @@
+2016-01-17 21:34:58,034 [8] DEBUG ConsoleApplication2.Program [(null)] - test
+2016-01-17 21:41:36,800 [8] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: Sunday, January 17, 2016
+2016-01-17 21:41:38,389 [8] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-17 21:42:10,253 [10] DEBUG ConsoleApplication2.Program [(null)] - test
+2016-01-17 21:42:11,076 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/17/2016 9:42:10 PM
+2016-01-17 21:42:11,995 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-17 21:52:12,003 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/17/2016 9:52:12 PM
+2016-01-17 21:52:16,731 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-17 22:02:16,744 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/17/2016 10:02:16 PM
+2016-01-17 22:02:21,463 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-17 22:12:21,474 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/17/2016 10:12:21 PM
+2016-01-17 22:12:26,656 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-17 22:22:26,684 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/17/2016 10:22:26 PM
+2016-01-17 22:22:31,490 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-17 22:32:31,504 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/17/2016 10:32:31 PM
+2016-01-17 22:32:36,241 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-17 22:42:36,249 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/17/2016 10:42:36 PM
+2016-01-17 22:42:41,007 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-17 22:52:41,024 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/17/2016 10:52:41 PM
+2016-01-17 22:52:45,731 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-17 23:02:45,745 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/17/2016 11:02:45 PM
+2016-01-17 23:02:50,463 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-17 23:12:50,479 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/17/2016 11:12:50 PM
+2016-01-17 23:12:55,252 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-17 23:22:55,256 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/17/2016 11:22:55 PM
+2016-01-17 23:23:00,345 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-17 23:33:00,372 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/17/2016 11:33:00 PM
+2016-01-17 23:33:05,098 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-17 23:43:05,109 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/17/2016 11:43:05 PM
+2016-01-17 23:43:09,788 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-17 23:53:09,813 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/17/2016 11:53:09 PM
+2016-01-17 23:53:14,655 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-18 00:03:14,667 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/18/2016 12:03:14 AM
+2016-01-18 00:03:19,350 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-18 00:13:19,376 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/18/2016 12:13:19 AM
+2016-01-18 00:13:24,097 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-18 00:23:24,117 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/18/2016 12:23:24 AM
+
+Ask about there encoding language, and there local language.
+also ask about their visual studio version as well.

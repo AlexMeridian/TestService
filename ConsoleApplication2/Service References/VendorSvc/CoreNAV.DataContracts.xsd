@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/CoreNAV.DataContracts" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/CoreNAV.DataContracts" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfNAVVendor">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="NAVVendor" nillable="true" type="tns:NAVVendor" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfNAVVendor" nillable="true" type="tns:ArrayOfNAVVendor" />
+  <xs:complexType name="NAVVendor">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Blocked" type="xs:boolean" />
+      <xs:element minOccurs="0" name="LegacyVendorNumber" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="MainAddress" nillable="true" type="tns:NAVVendorAddress" />
+      <xs:element minOccurs="0" name="OrderAddresses" nillable="true" type="tns:ArrayOfNAVVendorAddress" />
+      <xs:element minOccurs="0" name="OurAccountNumber" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="VendorNumber" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="VendorSearchName" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="NAVVendor" nillable="true" type="tns:NAVVendor" />
+  <xs:complexType name="NAVVendorAddress">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Address" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Address2" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="AddressType" type="tns:NAVAddressType" />
+      <xs:element minOccurs="0" name="AllowDropShipment" type="xs:boolean" />
+      <xs:element minOccurs="0" name="City" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Code" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Contact" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CountryCode" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Email" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="FaxNo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Homepage" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Name" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Name2" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="OrderCutoffTime" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PhoneNo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PostCode" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PostCodeTimeZone" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ShipmentMethodCode" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ShippingAgentCode" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ShippingAgentServiceCode" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="State" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="NAVVendorAddress" nillable="true" type="tns:NAVVendorAddress" />
+  <xs:simpleType name="NAVAddressType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="Business" />
+      <xs:enumeration value="None" />
+      <xs:enumeration value="Residence" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="NAVAddressType" nillable="true" type="tns:NAVAddressType" />
+  <xs:complexType name="ArrayOfNAVVendorAddress">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="NAVVendorAddress" nillable="true" type="tns:NAVVendorAddress" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfNAVVendorAddress" nillable="true" type="tns:ArrayOfNAVVendorAddress" />
+</xs:schema>

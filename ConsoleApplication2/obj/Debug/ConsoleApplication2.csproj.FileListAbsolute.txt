@@ -1,0 +1,14 @@
+c:\users\alexander\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+c:\users\alexander\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+c:\users\alexander\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+c:\users\alexander\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Common.Logging.Core.dll
+c:\users\alexander\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Common.Logging.dll
+c:\users\alexander\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\log4net.dll
+c:\users\alexander\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Common.Logging.pdb
+c:\users\alexander\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Common.Logging.xml
+c:\users\alexander\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Common.Logging.Core.pdb
+c:\users\alexander\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Common.Logging.Core.xml
+c:\users\alexander\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\log4net.xml
+c:\users\alexander\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+c:\users\alexander\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+c:\users\alexander\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache

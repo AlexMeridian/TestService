@@ -1,0 +1,84 @@
+2016-01-19 21:58:10,514 [10] DEBUG ConsoleApplication2.Program [(null)] - test
+2016-01-19 21:58:11,049 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/19/2016 9:58:10 PM
+2016-01-19 21:58:11,872 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-19 22:08:11,878 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/19/2016 10:08:11 PM
+2016-01-19 22:08:16,624 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-19 22:18:16,641 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/19/2016 10:18:16 PM
+2016-01-19 22:18:24,533 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-19 22:28:24,554 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/19/2016 10:28:24 PM
+2016-01-19 22:28:30,628 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-19 22:39:17,436 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/19/2016 10:39:17 PM
+2016-01-19 22:39:17,530 [10] ERROR ConsoleApplication2.Program [(null)] - It Failed!
+2016-01-19 22:39:17,530 [10] ERROR ConsoleApplication2.Program [(null)] - No DNS entries exist for host vdevapp01map.meridian.local.
+2016-01-19 22:49:17,535 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/19/2016 10:49:17 PM
+2016-01-19 22:49:38,642 [10] ERROR ConsoleApplication2.Program [(null)] - It Failed!
+2016-01-19 22:49:38,642 [10] ERROR ConsoleApplication2.Program [(null)] - Could not connect to net.tcp://vdevapp01map.meridian.local:9050/PartCatalog/Vendors. The connection attempt lasted for a time span of 00:00:21.0287162. TCP error code 10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.1.81:9050. 
+2016-01-19 22:59:38,657 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/19/2016 10:59:38 PM
+2016-01-19 22:59:43,389 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-19 23:09:43,399 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/19/2016 11:09:43 PM
+2016-01-19 23:09:49,302 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-19 23:19:49,325 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/19/2016 11:19:49 PM
+2016-01-19 23:19:54,138 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-19 23:29:54,170 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/19/2016 11:29:54 PM
+2016-01-19 23:29:58,909 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-19 23:39:58,912 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/19/2016 11:39:58 PM
+2016-01-19 23:40:04,782 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-19 23:50:04,794 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/19/2016 11:50:04 PM
+2016-01-19 23:50:09,505 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-20 00:00:09,536 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/20/2016 12:00:09 AM
+2016-01-20 00:00:14,278 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-20 00:10:14,289 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/20/2016 12:10:14 AM
+2016-01-20 00:10:20,376 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-20 00:20:20,400 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/20/2016 12:20:20 AM
+2016-01-20 00:20:25,141 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-20 00:30:25,150 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/20/2016 12:30:25 AM
+2016-01-20 00:30:29,876 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-20 00:40:29,882 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/20/2016 12:40:29 AM
+2016-01-20 00:40:34,999 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-20 00:50:35,019 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/20/2016 12:50:35 AM
+2016-01-20 00:50:39,856 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-20 01:00:39,879 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/20/2016 1:00:39 AM
+2016-01-20 01:00:44,581 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-20 01:10:44,586 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/20/2016 1:10:44 AM
+2016-01-20 01:10:50,160 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-20 01:20:50,177 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/20/2016 1:20:50 AM
+2016-01-20 01:20:54,919 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-20 01:30:54,943 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/20/2016 1:30:54 AM
+2016-01-20 01:30:59,657 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-20 01:40:59,677 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/20/2016 1:40:59 AM
+2016-01-20 01:41:04,389 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-20 01:51:04,397 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/20/2016 1:51:04 AM
+2016-01-20 01:51:09,109 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-20 02:01:09,117 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/20/2016 2:01:09 AM
+2016-01-20 02:01:13,813 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-20 02:11:13,837 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/20/2016 2:11:13 AM
+2016-01-20 02:11:20,992 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-20 02:21:21,002 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/20/2016 2:21:21 AM
+2016-01-20 02:21:25,758 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-20 02:31:25,769 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/20/2016 2:31:25 AM
+2016-01-20 02:31:31,380 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-20 02:41:31,388 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/20/2016 2:41:31 AM
+2016-01-20 02:41:52,433 [10] ERROR ConsoleApplication2.Program [(null)] - It Failed!
+2016-01-20 02:41:52,433 [10] ERROR ConsoleApplication2.Program [(null)] - Could not connect to net.tcp://vdevapp01map.meridian.local:9050/PartCatalog/Vendors. The connection attempt lasted for a time span of 00:00:21.0295640. TCP error code 10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.1.81:9050. 
+2016-01-20 02:51:52,449 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/20/2016 2:51:52 AM
+2016-01-20 02:51:57,618 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-20 03:01:57,629 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/20/2016 3:01:57 AM
+2016-01-20 03:02:02,314 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-20 03:12:02,336 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/20/2016 3:12:02 AM
+2016-01-20 03:12:08,574 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-20 03:22:08,594 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/20/2016 3:22:08 AM
+2016-01-20 03:22:13,382 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-20 03:32:13,399 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/20/2016 3:32:13 AM
+2016-01-20 03:32:18,159 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-20 03:42:18,185 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/20/2016 3:42:18 AM
+2016-01-20 03:42:22,866 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-20 03:52:22,884 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/20/2016 3:52:22 AM
+2016-01-20 03:52:27,754 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-20 04:02:27,764 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/20/2016 4:02:27 AM
+2016-01-20 04:02:32,461 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-20 04:12:32,477 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/20/2016 4:12:32 AM
+2016-01-20 04:12:37,916 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-20 04:22:37,940 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/20/2016 4:22:37 AM
+2016-01-20 04:22:43,047 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
+2016-01-20 04:32:43,073 [10] INFO  ConsoleApplication2.Program [(null)] - Attempting service at: 1/20/2016 4:32:43 AM
+2016-01-20 04:32:47,943 [10] INFO  ConsoleApplication2.Program [(null)] - Results: Something
